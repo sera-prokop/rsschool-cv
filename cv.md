@@ -33,6 +33,7 @@ My goal is to improve theoretical knowledge and get practical experience in buil
 ---
 
 ```
+
 import Card from '../../shared/components/UIElements/Card'
 import './PlaceList.css'
 import PlaceItem from './PlaceItem'
@@ -69,6 +70,7 @@ const PlaceList = (props) => {
 }
 
 export default PlaceList
+
 ```
 
 ## Work experience
