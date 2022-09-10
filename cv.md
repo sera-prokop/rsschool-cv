@@ -31,6 +31,11 @@ My goal is to improve theoretical knowledge and get practical experience in buil
 ## Code example
 
 ---
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ```
 
