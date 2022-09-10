@@ -2,7 +2,6 @@
 
 ## Contact Information
 
----
 
 **Email:** sera.prokop@gmail.com  
 **Discord:** @sera-prokop  
@@ -11,13 +10,11 @@
 
 ## About me
 
----
 
 My goal is to improve theoretical knowledge and get practical experience in building web applications.
 
 ## Skills
 
----
 
 * HTML, CSS
 * Git, Github, Subversion
@@ -30,7 +27,6 @@ My goal is to improve theoretical knowledge and get practical experience in buil
 
 ## Code example
 
----
 ```
 function multiply(a, b){
   return a * b
@@ -80,13 +76,11 @@ export default PlaceList
 
 ## Work experience
 
----
 
 For several years he worked in several institutions as a layout designer
 
 ## Education
 
----
 
 * [https://loftschool.com/](https://loftschool.com/)
 * [https://htmlacademy.ru/](https://htmlacademy.ru/)
@@ -94,7 +88,6 @@ For several years he worked in several institutions as a layout designer
 
 ## Languages
 
----
 
 * **English:** Pre-intermediate
 * **Russian:** Native
